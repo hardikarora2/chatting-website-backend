@@ -159,9 +159,9 @@ Create .env file (keys):
 <br>
 
 ## Team Members
-- <a href='https://github.com/arun-kushwaha04'>Arun Singh Kushwaha</a> 2020IMT016
-- <a href='https://github.com/harshgupta1249'>Harsh Gupta</a> 2020IMT035
-- <a href='https://github.com/vishwas031'>Vishwas Singh</a> 2020BCS074
+- <a href='https://github.com/arun-kushwaha04'>Arun Singh Kushwaha</a> IIT2020016
+- <a href='https://github.com/harshgupta1249'>Harsh Gupta</a> IIT2020035
+- <a href='https://github.com/hardikarora2'>Hardik Arora</a> IIT2020122
 
 ## Screenshots
 
